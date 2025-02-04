@@ -1,0 +1,4 @@
+1. ez a gép (jobb) 
+2. hálózati meghajtó csat.
+3. K megh. kiválasztása ha hiányzik akkor: K: \\ckik-pdc\kozos  ( Közös meghajtó )
+4. Sajat hianyzik \\ckik-pdc\diakok\2024_c\varga.kristof2
